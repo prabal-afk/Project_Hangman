@@ -7,8 +7,8 @@
 | S.No | Name | Roll No. | Role |
 |------|------|----------|------|
 | 1 | **Prabal** | **26CSU243** | **Team Leader: design, coding** |
-| 2 | Mayank Garg | 26CSU247 | Team member | Testing
-| 3 | Tanmay Pahwa | 26CSU241 | Team member | Documentation
+| 2 | Mayank Garg | 26CSU247 | Team member ,  Testing |
+| 3 | Tanmay Pahwa | 26CSU241 | Team member , Documentation | 
 
 ## Description
 
