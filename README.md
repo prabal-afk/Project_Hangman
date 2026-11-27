@@ -6,7 +6,9 @@
 
 | S.No | Name | Roll No. | Role |
 |------|------|----------|------|
-| 1 | Prabal | 26CSU243 (Section F) | Solo project: design, coding, testing, documentation |
+| 1 | **Prabal** | **26CSU243** | **Team Leader: design, coding, testing, documentation** |
+| 2 | Mayank Garg | 26CSU247 | Team member |
+| 3 | Tanmay Pahwa | 26CSU241 | Team member |
 
 ## Description
 
